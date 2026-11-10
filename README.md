@@ -7,7 +7,7 @@ Python dashboard that shows the top blocked domains for each device on my home n
 ## Current status
 - [x] Pi-hole running on a Raspberry Pi (Ubuntu)
 - [x] Script that logs into the Pi-hole API and groups blocked domains by device
-- [ ] Pull the last 24 hours of queries with paging
+- [x] Pull the last 24 hours of queries with paging
 - [ ] FastAPI service with `/devices` endpoints
 - [ ] Web dashboard
 - [ ] Docker deployment on the Pi
